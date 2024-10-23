@@ -1,0 +1,6 @@
+﻿  Header.cpp
+C:\Users\111\Desktop\vco\Header.cpp(50,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\111\Desktop\vco\Header.cpp(80,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Создание кода...
+  vco.vcxproj -> C:\Users\111\Desktop\vco\x64\Debug\vco.exe
